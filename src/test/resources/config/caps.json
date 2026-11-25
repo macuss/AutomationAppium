@@ -2,10 +2,11 @@
   "serverUrl": "http://127.0.0.1:4723",
   "platformName": "Android",
   "automationName": "UiAutomator2",
-  "deviceName": "Pixel_9a",
-  "avd": "Pixel_9a",
+  "deviceName": "Pixel_6",
+  "avd": "Pixel_6",
   "udid": "emulator-5554",
   "app": "src/test/resources/apks/mda-2.2.0-25.apk",
   "appWaitActivity": "*",
   "autoGrantPermissions": true
 }
+
